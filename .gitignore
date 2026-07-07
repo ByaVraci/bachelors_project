@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.env
+venv/
+data/raw/
+__pycache__/
+*.pyc
+thesis.db.venv/
+data/github_cache.sqlite
+data/thesis.db
+results/comments_for_r.csv
+results/*.csv
